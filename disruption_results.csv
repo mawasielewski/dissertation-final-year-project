@@ -1,0 +1,49 @@
+route,disrupted_station,severity,base_score,disrupted_score,base_class,disrupted_class,affected,infeasible
+J1 Route 1,Victoria,minor,9.6,9.6,HIGH,HIGH,True,False
+J1 Route 2,Victoria,minor,4.4,4.4,MEDIUM,MEDIUM,False,False
+J1 Route 3,Victoria,minor,4.8,4.8,MEDIUM,MEDIUM,False,False
+J1 Route 1,Victoria,major,9.6,10.0,HIGH,INFEASIBLE,True,True
+J1 Route 2,Victoria,major,4.4,4.4,MEDIUM,MEDIUM,False,False
+J1 Route 3,Victoria,major,4.8,4.8,MEDIUM,MEDIUM,False,False
+J1 Route 1,Westferry,minor,9.6,9.6,HIGH,HIGH,False,False
+J1 Route 2,Westferry,minor,4.4,4.4,MEDIUM,MEDIUM,False,False
+J1 Route 3,Westferry,minor,4.8,4.8,MEDIUM,MEDIUM,True,False
+J1 Route 1,Westferry,major,9.6,9.6,HIGH,HIGH,False,False
+J1 Route 2,Westferry,major,4.4,4.4,MEDIUM,MEDIUM,False,False
+J1 Route 3,Westferry,major,4.8,10.0,MEDIUM,INFEASIBLE,True,True
+J2 Route 1,Waterloo,minor,3.2,3.2,LOW,LOW,True,False
+J2 Route 2,Waterloo,minor,8.8,8.8,HIGH,HIGH,False,False
+J2 Route 3,Waterloo,minor,5.2,5.2,MEDIUM,MEDIUM,False,False
+J2 Route 1,Waterloo,major,3.2,10.0,LOW,INFEASIBLE,True,True
+J2 Route 2,Waterloo,major,8.8,8.8,HIGH,HIGH,False,False
+J2 Route 3,Waterloo,major,5.2,5.2,MEDIUM,MEDIUM,False,False
+J2 Route 1,King's Cross St. Pancras,minor,3.2,3.2,LOW,LOW,False,False
+J2 Route 2,King's Cross St. Pancras,minor,8.8,8.8,HIGH,HIGH,False,False
+J2 Route 3,King's Cross St. Pancras,minor,5.2,5.2,MEDIUM,MEDIUM,True,False
+J2 Route 1,King's Cross St. Pancras,major,3.2,3.2,LOW,LOW,False,False
+J2 Route 2,King's Cross St. Pancras,major,8.8,8.8,HIGH,HIGH,False,False
+J2 Route 3,King's Cross St. Pancras,major,5.2,10.0,MEDIUM,INFEASIBLE,True,True
+J3 Route 1,Kilburn,minor,3.6,3.6,LOW,LOW,False,False
+J3 Route 2,Kilburn,minor,3.2,3.2,LOW,LOW,False,False
+J3 Route 3,Kilburn,minor,1.2,10.0,LOW,INFEASIBLE,True,True
+J3 Route 1,Kilburn,major,3.6,3.6,LOW,LOW,False,False
+J3 Route 2,Kilburn,major,3.2,3.2,LOW,LOW,False,False
+J3 Route 3,Kilburn,major,1.2,10.0,LOW,INFEASIBLE,True,True
+J2 Route 1,Farringdon,minor,3.2,3.2,LOW,LOW,False,False
+J2 Route 2,Farringdon,minor,8.8,8.8,HIGH,HIGH,False,False
+J2 Route 3,Farringdon,minor,5.2,5.2,MEDIUM,MEDIUM,True,False
+J2 Route 1,Farringdon,major,3.2,3.2,LOW,LOW,False,False
+J2 Route 2,Farringdon,major,8.8,8.8,HIGH,HIGH,False,False
+J2 Route 3,Farringdon,major,5.2,10.0,MEDIUM,INFEASIBLE,True,True
+J4 Route 1,Bank,minor,2.4,2.4,LOW,LOW,False,False
+J4 Route 2,Bank,minor,3.2,3.2,LOW,LOW,True,False
+J4 Route 3,Bank,minor,3.2,3.2,LOW,LOW,False,False
+J4 Route 1,Bank,major,2.4,2.4,LOW,LOW,False,False
+J4 Route 2,Bank,major,3.2,10.0,LOW,INFEASIBLE,True,True
+J4 Route 3,Bank,major,3.2,3.2,LOW,LOW,False,False
+J4 Route 1,Farringdon,minor,2.4,1.6,LOW,LOW,True,False
+J4 Route 2,Farringdon,minor,3.2,3.2,LOW,LOW,False,False
+J4 Route 3,Farringdon,minor,3.2,3.2,LOW,LOW,False,False
+J4 Route 1,Farringdon,major,2.4,10.0,LOW,INFEASIBLE,True,True
+J4 Route 2,Farringdon,major,3.2,3.2,LOW,LOW,False,False
+J4 Route 3,Farringdon,major,3.2,3.2,LOW,LOW,False,False

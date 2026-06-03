@@ -1,0 +1,13 @@
+route,start,end,time_mins,raw_score,normalised_score,classification
+J1 Route 1,Vauxhall,Mile End,32,24,9.6,HIGH
+J1 Route 2,Vauxhall,Mile End,56,11,4.4,MEDIUM
+J1 Route 3,Vauxhall,Mile End (Bus Stop),55,12,4.8,MEDIUM
+J2 Route 1,Wembley Park,Elephant & Castle (Bus Stop),45,8,3.2,LOW
+J2 Route 2,Wembley Park,Elephant & Castle,40,22,8.8,HIGH
+J2 Route 3,Wembley Park,Elephant & Castle (Bus Stop),62,13,5.2,MEDIUM
+J3 Route 1,Kingsbury,Paddington,60,9,3.6,LOW
+J3 Route 2,Kingsbury,Paddington,35,8,3.2,LOW
+J3 Route 3,Kingsbury,Paddington,61,3,1.2,LOW
+J4 Route 1,Canary Wharf,King's Cross St. Pancras,27,6,2.4,LOW
+J4 Route 2,Canary Wharf,King's Cross St. Pancras,26,8,3.2,LOW
+J4 Route 3,Canary Wharf,King's Cross St. Pancras,36,8,3.2,LOW
