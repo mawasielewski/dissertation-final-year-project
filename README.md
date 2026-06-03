@@ -1,2 +1,2 @@
 This project proposes and implements a risk-based evaluation model for accessible journey planning on the London Underground. Existing tools such as Google Maps and TfL Go represent accessibility as a binary property and optimise routes primarily by travel time, failing to capture the real-world reliability of step-free journeys. The model assigns a numerical risk score to each route based on three measurable factors - interchange complexity, lift dependency, and destination step-free status, and extends to simulate disruption scenarios, revealing routes that appear safe under normal conditions but become entirely infeasible under a single minor infrastructure fault.
-Read more here: (dissertation.pdf)
+[Read the full report](dissertation.pdf)
